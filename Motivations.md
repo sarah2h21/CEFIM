@@ -100,12 +100,12 @@
 <p>
     	<ul>
     	<li><a href="https://coleka.com">Coleka</a> c'est un site d'échange pour collectionneur</li>
-    	<li><strong> De 2008 à 2015 : </strong> développeur Norsys</li>	
-    	<li><strong> De 2015 à 2018 : </strong> développeur Openclassrooms</li>	
+    	<li><a href="https://openclassrooms.com">OpenClassrooms</a> j'y passe beaucoup de temps à me former</li>
+	<li><a href="https://mondialtisus.frm">OpenClassrooms</a> à la recherche de nouveaux tissus et de tutos DIY</li>
     	</ul>
  	</p>   	
 <h2><strong> Réseaux sociaux </strong></h2>   
+	<li><a href="https://fr.linkedin.com/in/sarah-hayder-01836374</a></li>
     <p>
-    	
     </p>   
    

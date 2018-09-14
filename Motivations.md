@@ -99,7 +99,7 @@
 <h2><strong> Mes sites préférés </strong></h2>       
 <p>
     	<ul>
-    	<li><a href="https://coleka.com">colekas</a></li>
+    	<li><a href="https://coleka.com">Coleka</a> c'est un site d'échange pour collectionneur</li>
     	<li><strong> De 2008 à 2015 : </strong> développeur Norsys</li>	
     	<li><strong> De 2015 à 2018 : </strong> développeur Openclassrooms</li>	
     	</ul>

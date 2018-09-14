@@ -5,6 +5,7 @@
     	<ul>
     	<li><strong> De 2005 à 2016 : </strong> Karavel/Promovacances</li>
             <p>Adjointe de la Direction du Service Production</p>
+	<p>
             <ul>
                 <li>Coordination & assistanat administratif du service</li>
                 <li>Formation & Management de l’équipe de Production (projets, gestion quotidienne du service)</li>
@@ -12,6 +13,7 @@
                 <li>Négociation des contrats, des conditions financières, et du niveau de qualité avec les prestataires</li>
                 <li>Préparation & présentation des supports de communication et des plans d’actions commerciales</li>                                   <li>Participation annuelle au salon du Tourisme (prospection)</li>
             </ul>
+	</p>
             <p>Responsable Partenariats TO et équipe production</p>
             <ul>
                 <li>Développements informatiques, contracting & suivi commercial des fournisseurs TO</li>

@@ -63,7 +63,6 @@
                 <li>Accueil des clients, organisation et suivi du déroulement des manifestations sur site</li
             </ul>
 	</p>      
-    	   </ul>
 <h2><strong> Mes formations </strong></h2> 
        	<ul>
 	<p>

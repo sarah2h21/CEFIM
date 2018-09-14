@@ -21,22 +21,31 @@
                 <li>Suivi du respect de la charte éditoriale de l'offre en ligne</li>
                 <li>Suivi & coordination de l’animation des ventes (opération exclusive, vente flash) pour les marques du groupe</li>
             </ul>
-    
-    
- 
-            
+             <p>Chef de produit</p>
+                <ul>
+                <li>Définition des objectifs de vente et de la stratégie commerciale à adopter via l’élaboration de Business Plan par                       destination</li>
+                <li>Négociation des prestations terrestres (hôtels, réceptifs)</li> 
+                <li>Déplacements fréquents à l’International (suivi des produits et contrôle qualité)</li>
+                <li>Création d'opérations d'animation et de promotion pour ces destinations</li>
+                <li>Formation et management d’équipe</li>
+            </ul>
+            <p>Gestionnaire de comptes Tours Opérateurs</p>
+                <ul>
+			    <li>Négociation et mise en avant des offres</li> 
+                <li>Définition et application de la stratégie commerciale par destination</li>
+                <li>Veille concurrentielle</li>
+                <li>Validation de la qualité des prestations sur place</li> 
+                <li>Formation et management d’équipe</li>
+                <li>Participation au développement informatique et à leur mise en place en interne</li>
+            </ul>
+            <p>Assistante de production</p>
+            <ul>
+                <li>Mise en ligne des produits : rédaction des descriptifs, calcul des tarifs et sélection des visuels</li>
+                <li>Suivi de la mise à jour des offres : actualisation des stocks, du catalogue produit et des promotions</li>
+            </ul>
             
                   
-    	   <h4><strong> De 2002 à 2005: </strong> Accor</h4>
-           <p>Adjointe de la Direction du Service Production</p>
-            
-                    <p>Coordination & assistanat administratif du service</p>
-                    <p>Formation & Management de l’équipe de Production (projets, gestion quotidienne du service)</p>
-                    <p>Elaboration et suivi du plan de production (choix des offres à packager & élaboration des business plan)</p>
-                    <p>Négociation des contrats, des conditions financières, et du niveau de qualité avec les prestataires</p> 
-                    <p>Préparation & présentation des supports de communication et des plans d’actions commerciales</p>		                                 <p>Participation annuelle au salon du Tourisme (prospection)</p>
-</ul>
-    
+    	   </ul>
     <h3>Mes formations
         <p>
     	<ul>

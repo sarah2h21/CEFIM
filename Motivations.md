@@ -53,7 +53,15 @@
                 <li>Suivi de la mise à jour des offres : actualisation des stocks, du catalogue produit et des promotions</li>
             </ul>
             </p>
-                  
+            <li><strong> De 2002 à 2005 : </strong> Groupe Accor</li>
+            <p>Attachée Commerciale Séminaires et Banquets</p>
+	<p>
+            <ul>
+                <li>Gestion des propositions commerciales</li>
+                <li>Accueil des clients, organisation et suivi du déroulement des manifestations sur site</li>
+              
+            </ul>
+	</p>      
     	   </ul>
     <h3>Mes formations
         <p>

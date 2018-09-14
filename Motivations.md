@@ -2,7 +2,7 @@
 <html>
 <h1>Objectif : Intégrer la formation Web Developper au CEFIM</h1>
 <h2><strong> Qui suis-je ? </strong></h2>      
-    <p>Mon parcours professionnel : Tourisme et Hôtellerie</p>
+    <p style="color: blue;">Mon parcours professionnel : Tourisme et Hôtellerie</p>
 	<p>
     	<li><strong> De 2005 à 2016 : </strong> Karavel/Promovacances</li>
 	</p>
@@ -16,7 +16,7 @@
                 <li>Préparation & présentation des supports de communication et des plans d’actions commerciales</li>                                   <li>Participation annuelle au salon du Tourisme (prospection)</li>
             </ul>
 	</p>
-            <p style="color: blue;>Responsable Partenariats TO et équipe production</p>
+            <p>Responsable Partenariats TO et équipe production</p>
 	    <p>
             <ul>
                 <li>Développements informatiques, contracting & suivi commercial des fournisseurs TO</li>

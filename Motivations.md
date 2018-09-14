@@ -64,7 +64,7 @@
             </ul>
 	</p>      
     	   </ul>
-    <h2><strong> Mes formations </strong></h2> 
+<h2><strong> Mes formations </strong></h2> 
        	<ul>
 	<p>
     	<li><strong> De 1998 à 2003 : </strong> Formation initiale</li>

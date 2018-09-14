@@ -15,6 +15,7 @@
             </ul>
 	</p>
             <p>Responsable Partenariats TO et équipe production</p>
+	    <p>
             <ul>
                 <li>Développements informatiques, contracting & suivi commercial des fournisseurs TO</li>
                 <li>Management, recrutement & formation de l'équipe des assistants & coordinateurs (12 personnes)</li>
@@ -23,7 +24,9 @@
                 <li>Suivi du respect de la charte éditoriale de l'offre en ligne</li>
                 <li>Suivi & coordination de l’animation des ventes (opération exclusive, vente flash) pour les marques du groupe</li>
             </ul>
+	    </p>
              <p>Chef de produit</p>
+	     <p>
                 <ul>
                 <li>Définition des objectifs de vente et de la stratégie commerciale à adopter via l’élaboration de Business Plan par                       destination</li>
                 <li>Négociation des prestations terrestres (hôtels, réceptifs)</li> 
@@ -31,21 +34,25 @@
                 <li>Création d'opérations d'animation et de promotion pour ces destinations</li>
                 <li>Formation et management d’équipe</li>
             </ul>
+	    </p>
             <p>Gestionnaire de comptes Tours Opérateurs</p>
+	    <p>
                 <ul>
-			    <li>Négociation et mise en avant des offres</li> 
+		<li>Négociation et mise en avant des offres</li> 
                 <li>Définition et application de la stratégie commerciale par destination</li>
                 <li>Veille concurrentielle</li>
                 <li>Validation de la qualité des prestations sur place</li> 
                 <li>Formation et management d’équipe</li>
                 <li>Participation au développement informatique et à leur mise en place en interne</li>
             </ul>
+	    </p>
             <p>Assistante de production</p>
+	    <p>
             <ul>
                 <li>Mise en ligne des produits : rédaction des descriptifs, calcul des tarifs et sélection des visuels</li>
                 <li>Suivi de la mise à jour des offres : actualisation des stocks, du catalogue produit et des promotions</li>
             </ul>
-            
+            </p>
                   
     	   </ul>
     <h3>Mes formations

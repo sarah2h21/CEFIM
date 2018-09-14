@@ -60,27 +60,37 @@
 	<p>
             <ul>
                 <li>Gestion des propositions commerciales</li>
-                <li>Accueil des clients, organisation et suivi du déroulement des manifestations sur site</li>
-              
+                <li>Accueil des clients, organisation et suivi du déroulement des manifestations sur site</li
             </ul>
 	</p>      
     	   </ul>
-    <h3>Mes formations
-        <p>
-    	<ul>
-    	<li><strong> De 1998 à 2008 : </strong> développeur Atos</li>
-    	<li><strong> De 2008 à 2015 : </strong> développeur Norsys</li>	
-    	<li><strong> De 2015 à 2018 : </strong> développeur Openclassrooms</li>	
-    	</ul>
- 	</p>   	
-    <h3>Mes expériences
-        <p>
-    	<ul>
-    	<li><strong> De 1998 à 2008 : </strong> développeur Atos</li>
-    	<li><strong> De 2008 à 2015 : </strong> développeur Norsys</li>	
-    	<li><strong> De 2015 à 2018 : </strong> développeur Openclassrooms</li>	
-    	</ul>
- 	</p>   	
+    <p>Mes formations</p>
+       	<ul>
+	<p>
+    	<li><strong> De 1998 à 2003 : </strong> Formation initiale</li>
+	</p>
+            <p>Dernier diplôme obyenu : Bac+3 Management du Tourisme</p>
+	<p>
+            <ul>
+                <li>2002-2003 : Licence Professionnelle de Management Européen du Tourisme, Université Paris V, mention assez bien</li>
+                <li>2000-2002 : BTS Tourisme - Loisirs option Conception - Commercialisation, Vincennes</li>
+                <li>1999-2000 : Mise à niveau en Hôtellerie - Restauration, École Hôtelière de Paris Jean Drouant</li>
+                <li>1998-1999 : Première année de DEUG Sociologie - Anthropologie, Université Paris VIII</li>
+                <li>1998 : Baccalauréat général économique et social, mention assez bien</li>                                   
+            </ul>
+	</p>
+            <p>Responsable Partenariats TO et équipe production</p>
+	    <p>
+            <ul>
+                <li>Développements informatiques, contracting & suivi commercial des fournisseurs TO</li>
+                <li>Management, recrutement & formation de l'équipe des assistants & coordinateurs (12 personnes)</li>
+                <li>Définition, mise en place & adaptation des outils et process aux besoins métiers</li>
+                <li>Coordination avec les différents métiers et les développeurs informatiques, de la conception, du développement, et                   de l'adaptation des outils aux besoins de leurs utilisateurs</li>
+                <li>Suivi du respect de la charte éditoriale de l'offre en ligne</li>
+                <li>Suivi & coordination de l’animation des ventes (opération exclusive, vente flash) pour les marques du groupe</li>
+            </ul>
+	    </p>
+       
 <h2><strong> Mes centres d'intérêts </strong></h2>         
     <p>
     	<ul>

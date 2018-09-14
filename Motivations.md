@@ -3,7 +3,9 @@
 <h2><strong> Qui suis-je ? </strong></h2>      
     <p>Mon parcours professionnel : Tourisme et Hôtellerie</p>
     	<ul>
+	<p>
     	<li><strong> De 2005 à 2016 : </strong> Karavel/Promovacances</li>
+	</p>
             <p>Adjointe de la Direction du Service Production</p>
 	<p>
             <ul>

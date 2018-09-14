@@ -1,9 +1,5 @@
 <!DOCTYPE html>
 <html>
-	<head>
-        <meta charset="utf-8" />
-        <title>Présentation</title>
-    </head>
 <h1>Objectif : Intégrer la formation Web Developper au CEFIM</h1>
 <h2><strong> Qui suis-je ? </strong></h2>      
     <p>Mon parcours professionnel : Tourisme et Hôtellerie</p>

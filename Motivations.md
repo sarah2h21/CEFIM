@@ -107,7 +107,7 @@
 <h2><strong> Réseaux sociaux </strong></h2>   
 <p>
     	<ul>
-    	<li><a href="https://fr.linkedin.com/in/sarah-hayder-01836374</a></li>
+    	<li><a href="https://fr.linkedin.com/in/sarah-hayder-01836374>Profil Linkedin</a></li>
     	</ul>
  	</p>   	
     </p>   

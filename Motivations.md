@@ -2,7 +2,7 @@
 <html>
 <h1>Objectif : Intégrer la formation Web Developper au CEFIM</h1>
 <h2><strong> Qui suis-je ? </strong></h2>      
-    <p><em>Mon parcours professionnel : Tourisme et Hôtellerie<em></p>
+    <p>Mon parcours professionnel : Tourisme et Hôtellerie</p>
 	<p>
     	<li><strong> De 2005 à 2016 : </strong> Karavel/Promovacances</li>
 	</p>
@@ -19,7 +19,7 @@
             <p>Responsable Partenariats TO et équipe production</p>
 	    <p>
             <ul>
-                <li>Développements informatiques, contracting & suivi commercial des fournisseurs TO</li>
+                <li><em>Développements informatiques<em>, contracting & suivi commercial des fournisseurs TO</li>
                 <li>Management, recrutement & formation de l'équipe des assistants & coordinateurs (12 personnes)</li>
                 <li>Définition, mise en place & adaptation des outils et process aux besoins métiers</li>
                 <li>Coordination avec les différents métiers et les développeurs informatiques, de la conception, du développement, et                   de l'adaptation des outils aux besoins de leurs utilisateurs</li>

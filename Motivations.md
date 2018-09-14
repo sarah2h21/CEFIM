@@ -91,9 +91,9 @@
 <h2><strong> Mes centres d'intérêts </strong></h2>         
     <p>
     	<ul>
-    	<li><strong> Cinéma </strong></li>	
-    	<li><strong> Lecture </strong></li>	
-	<li><strong> Couture </strong></li>		
+	<li>Couture</li>
+    	<li>Cinéma</li>	
+    	<li>Lecture</li>		
     	</ul>
  	</p>   	
 <h2><strong> Mes sites préférés </strong></h2>       

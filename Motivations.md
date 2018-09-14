@@ -101,7 +101,7 @@
     	<ul>
     	<li><a href="https://coleka.com">Coleka</a> c'est un site d'échange pour collectionneur</li>
     	<li><a href="https://openclassrooms.com">OpenClassrooms</a> j'y passe beaucoup de temps à me former</li>
-	<li><a href="https://mondialtisus.frm">OpenClassrooms</a> à la recherche de nouveaux tissus et de tutos DIY</li>
+	<li><a href="https://mondialtisus.fr">Mondial Tissus</a> à la recherche de nouveaux tissus et de tutos DIY</li>
     	</ul>
  	</p>   	
 <h2><strong> Réseaux sociaux </strong></h2>   

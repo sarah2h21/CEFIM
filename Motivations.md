@@ -19,7 +19,7 @@
             <p>Responsable Partenariats TO et équipe production</p>
 	    <p>
             <ul>
-                <li><em>Développements informatiques<em>, contracting & suivi commercial des fournisseurs TO</li>
+                <li>Développements informatiques, contracting & suivi commercial des fournisseurs TO</li>
                 <li>Management, recrutement & formation de l'équipe des assistants & coordinateurs (12 personnes)</li>
                 <li>Définition, mise en place & adaptation des outils et process aux besoins métiers</li>
                 <li>Coordination avec les différents métiers et les développeurs informatiques, de la conception, du développement, et                   de l'adaptation des outils aux besoins de leurs utilisateurs</li>

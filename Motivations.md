@@ -1,5 +1,4 @@
-<h1> Motivations 
-  <p> Objectif : Intégrer la formation Web Developper au CEFIM </p>
+<h1>Objectif : Intégrer la formation Web Developper au CEFIM
 <h2><strong> Mon expérience </strong></h2>
     <p>
     	<ul>

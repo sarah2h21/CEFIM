@@ -1,2 +1,0 @@
-# CEFIM
-Motivations
